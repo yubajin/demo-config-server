@@ -5,3 +5,5 @@ order:
 logging:
   level:
     cn.iocoder.springcloud.labx12.userapplication.controller.DemoController: DEBUG
+
+test: true
