@@ -4,4 +4,4 @@ order:
 
 logging:
   level:
-    cn.iocoder.springcloud.labx12.userapplication.controller.DemoController: INFO
+    cn.iocoder.springcloud.labx12.userapplication.controller.DemoController: DEBUG
