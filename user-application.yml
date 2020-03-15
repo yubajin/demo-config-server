@@ -7,3 +7,5 @@ logging:
     cn.iocoder.springcloud.labx12.userapplication.controller.DemoController: DEBUG
 
 test: true
+
+xx-password: '{cipher}77ae320eca035f0832d814993af728411f38a2d41750111e91c7dd2221a4b246'
